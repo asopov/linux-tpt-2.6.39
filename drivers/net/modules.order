@@ -1,0 +1,4 @@
+kernel/drivers/net/phy/mdio-bitbang.ko
+kernel/drivers/net/phy/mdio-gpio.ko
+kernel/drivers/net/phy/micrel.ko
+kernel/drivers/net/wireless/bcm4329/bcm4329.ko

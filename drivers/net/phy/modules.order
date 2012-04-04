@@ -1,0 +1,3 @@
+kernel/drivers/net/phy/mdio-bitbang.ko
+kernel/drivers/net/phy/mdio-gpio.ko
+kernel/drivers/net/phy/micrel.ko

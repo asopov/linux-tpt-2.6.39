@@ -1,0 +1,1 @@
+cmd_drivers/regulator/built-in.o :=  /space/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/regulator/built-in.o drivers/regulator/core.o drivers/regulator/dummy.o drivers/regulator/fixed.o drivers/regulator/virtual.o drivers/regulator/tps6586x-regulator.o 
